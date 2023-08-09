@@ -1,0 +1,6 @@
+node_modules
+
+dist
+
+# Didn't add .env file to .gitignore because it's test application
+# .env
